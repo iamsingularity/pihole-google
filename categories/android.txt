@@ -1,7 +1,9 @@
+#This blocklist helps Pi-hole's admin restrict access to Google and its domains.
+#Last updated: 06-06-2020
 # Google Android
 0.0.0.0 1-market.android.com
-0.0.0.0 a17-250-248-101.android.com
 0.0.0.0 a.android.com
+0.0.0.0 a17-250-248-101.android.com
 0.0.0.0 accessories.android.com
 0.0.0.0 accounts.partner.android.com
 0.0.0.0 android-review.googlesource.com
@@ -35,3 +37,14 @@
 0.0.0.0 tools.android.com
 0.0.0.0 wear.android.com
 0.0.0.0 www.android.com
+0.0.0.0 regioinfo-pa.googleapis.com
+0.0.0.0 geller-pa.googleapis.com
+0.0.0.0 deviceintegritytokens-pa.googleapis.com
+0.0.0.0 mobilemaps.googleapis.com
+0.0.0.0 mobilemaps-pa-gz.googleapis.com
+0.0.0.0 lamssettings-pa.googleapis.com
+0.0.0.0 content-autofill.googleapis.com
+0.0.0.0 stun2.l.google.com
+0.0.0.0 regioninfo-pa.googleapis.com
+0.0.0.0 ulp1p-pa.googleapis.com
+0.0.0.0 mobilenetworkscoring-pa.googleapis.com
